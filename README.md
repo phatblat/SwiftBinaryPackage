@@ -12,7 +12,7 @@ error: InternalError(description: "Internal error. Please file a bug at https://
 
 ## Folder Hierarchy
 
-### Xcode 13.2.1
+### Xcode 13.1 - 13.2.1
 
 ```text
 binary.xcframework/
