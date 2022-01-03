@@ -19,6 +19,6 @@ let package = Package(
             dependencies: ["SwiftBinaryPackage"]),
         .binaryTarget(
             name: "binary",
-            path: ".build/artifacts/binary.xcframework")
+            path: "binary.xcframework")
     ]
 )
